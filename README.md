@@ -69,13 +69,6 @@ Check out the pinned repositories below for work that reflects how I think and b
 
 ---
 
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Itsmeddeyc&theme=react-dark&hide_border=true)](https://github.com/Itsmeddeyc)
-
-
----
-
 ## 📫 How to reach me
 
 - LinkedIn: [@Harry Medd](https://www.linkedin.com/in/harry-medd/)
