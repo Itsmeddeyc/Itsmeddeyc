@@ -1,13 +1,13 @@
 # Hi, I’m Harry 👋  
 Product-minded builder working on OCR → AI → knowledge pipelines.
 
-Currently focused on turning messy handwritten notes into structured, usable outputs using modern web infrastructure and AI-assisted development workflows.
+Currently focused on turning handwriting into structured, usable outputs using modern web infrastructure and AI-assisted development workflows.
 
 ---
 
 ## 🚀 What I’m working on
 
-- **DoubleTake** — an OCR → AI → Notion / Google Docs pipeline for handwritten notes  
+- **DoubleTake** — an OCR → AI → Notion / Google Docs pipeline for handwriting
   - Built for real-world handwriting (not clean scans)  
   - Async, step-based job tracking with retries and idempotency  
   - Designed around reliability and product constraints, not demos
